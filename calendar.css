@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Folio;
+    src: url("./Folio-Medium.otf");
+    font-weight: normal;
+}
+
+* {
+    font-family: "Folio", sans-serif !important;
+    font-weight: normal;
+    text-shadow: 1px 1px 1px rgba(26, 26, 26, 0.227);
+}
